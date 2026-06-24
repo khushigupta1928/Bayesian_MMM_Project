@@ -1,0 +1,4 @@
+Channel,Impact,Lower_Bound,Upper_Bound
+TV,0.0458,0.044,0.048
+Radio,0.1888,0.17,0.2
+Newspaper,-0.001,-0.011,0.0084
